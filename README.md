@@ -10,6 +10,9 @@ introduction and learning of Blockchain
 ### 举例；
 ### 扩展，关联思考/展望/问题/提醒/进一步了解等；
 ### 参考文献等
+
+https://www.blockchain.com/about/index.html
+钱包QQ_mail_ys1-6
 =====================
 
 # 参考知乎上的回答等的理解和引用
