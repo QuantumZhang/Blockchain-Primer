@@ -51,6 +51,13 @@ https://www.blockchain.com/about/index.html
 *** 当前依赖中心化的技术，浪费\风险\低效率都是问题，区块链有希望解决这些问题，即去中心化，放在非安全环境中的分布式解决方案。
 
 
+- 更多参考，例如：
+> MIT Technology Review_Blockchain Primer_Blockchain will do for transactions what the internet did for information. 介绍了相关的主题/p
+医疗、议会、运输、虚拟币、互联网
+
+# 关键问题，
+## 如何跟进技术发展，跟进相关行业的变化
+## 如何逐步了解相关技术，并有所产出 
 
 
 
